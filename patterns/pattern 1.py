@@ -1,4 +1,4 @@
-n=int(input("Enter NUmber:"))
+n=int(input("Enter Number: "))
 for i in range(n):
     for j in range(n):
         print("*", end=" ")
